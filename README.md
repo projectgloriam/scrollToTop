@@ -1,7 +1,6 @@
 # scrollToTop
 This is my version of "scroll to the top" jQuery plugin. 
 
-
 ## To use this plugin
 
 ```
