@@ -10,7 +10,7 @@ This is my version of "scroll to the top" jQuery plugin.
 ```
 Place this 
 `````````
-$("body").scrollToTop({
+$("divelement").scrollToTop({
   position: "bottom-right", //top, top-left, top-right, bottom, bottom-left or bottom-right of the screen
   upwards: 0, //distance from the current postion upwards
   downwards: 0, //distance from the current postion downwards
